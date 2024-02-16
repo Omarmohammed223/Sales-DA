@@ -22,6 +22,7 @@ Dataset From : Kaggle
 <h1>Insights from the project: </h1>
 
 * Make Exploratory Data Analysis
+
 1.Gender : From above graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men
 
 2.Age : From above graphs we can see that most of the buyers are of age group between 26-35 yrs female
